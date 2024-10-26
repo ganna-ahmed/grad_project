@@ -7,4 +7,5 @@ class AppColors {
   static const Color snow = Color(0xffF1F2F7);
   static const Color white = Color(0xffffffff);
   static const Color darkBlue = Color(0xff0F2D5C);
+  static const Color splashBlue = Color(0xff608dd4);
 }
